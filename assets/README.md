@@ -1,3 +1,7 @@
 # Portfolio Assets
 
-Supporting images, diagrams, and approved visual resources used throughout this portfolio.
+Shared, sanitized supporting materials used by this portfolio.
+
+## Folders
+
+- [Images](images/)
