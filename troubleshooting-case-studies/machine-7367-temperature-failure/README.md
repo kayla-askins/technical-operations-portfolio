@@ -1,5 +1,20 @@
-# Temperature-Control Failure Case Study
+# Machine Temperature-Failure Case Study
 
-A sanitized technical case study showing the investigation of a persistent equipment temperature-control failure.
+## Project Status
 
-> Portfolio version in development. Equipment identifiers, employer-confidential information, and proprietary procedures will be removed or generalized.
+Case-study documentation is being prepared for publication.
+
+## Purpose
+
+This case study demonstrates a systematic approach to a persistent equipment temperature problem, including:
+
+- Confirming and reproducing the reported fault
+- Reviewing symptoms and service history
+- Separating observations from assumptions
+- Testing likely causes in a logical sequence
+- Recording each corrective action
+- Verifying equipment performance after changes
+
+## Privacy Note
+
+The public version will be sanitized. Employer identifiers, facility details, proprietary service instructions, sensitive equipment identifiers, and confidential operational information will not be published.
