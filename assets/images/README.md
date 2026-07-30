@@ -1,3 +1,5 @@
 # Images
 
-Sanitized screenshots, previews, and diagrams supporting the portfolio case studies.
+Sanitized screenshots, preview graphics, diagrams, and other images used in public portfolio documentation.
+
+Do not upload employer logos, patient or employee information, facility identifiers, machine serial numbers, or proprietary screenshots.
