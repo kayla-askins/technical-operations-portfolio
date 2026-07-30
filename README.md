@@ -2,81 +2,95 @@
 
 I turn complex technical and operational information into clear, usable systems.
 
-This repository contains de-identified work samples demonstrating my experience in regulated healthcare, biomedical equipment service, technical troubleshooting, compliance training, process documentation, quality support, data tracking, and operational improvement.
+This working portfolio contains de-identified examples of documentation, quality systems, process improvement, technical writing, and automation. Each project explains the problem, my role, the decisions behind the work, and the skills demonstrated—not just the finished file.
 
-## Live Portfolio
+## Featured Project
 
-- [View my Technical Operations Portfolio](https://kayla-operations-portfolio.kaskins81.chatgpt.site)
-- [Read the Total Chlorine Compliance Training case study](https://kayla-operations-portfolio.kaskins81.chatgpt.site/case-studies/training-compliance)
-- [Open the sanitized training-document sample](https://kayla-operations-portfolio.kaskins81.chatgpt.site/training-compliance-sample.pdf)
+### [Total Chlorine Documentation In-Service](Documentation/In-Service%20Training/Total-Chlorine-Inservice/)
 
-## Repository Sections
+Clinical staff needed clearer guidance on time-sensitive documentation requirements. I designed a standardized in-service and staff acknowledgement form that communicates timing expectations, explains justified-exception documentation, and creates evidence of staff education.
 
-### [Compliance Training](compliance-training/)
+- [View the visual case study](https://kayla-operations-portfolio.kaskins81.chatgpt.site/case-studies/training-compliance)
+- [Open the sanitized PDF sample](https://kayla-operations-portfolio.kaskins81.chatgpt.site/training-compliance-sample.pdf)
 
-De-identified in-service forms, staff education materials, acknowledgement forms, and compliance communication samples.
+**Skills demonstrated:** Technical writing · healthcare compliance support · document design · quality assurance documentation · adult learning principles
 
-### [Troubleshooting Case Studies](troubleshooting-case-studies/)
+## Portfolio Areas
 
-Structured case studies showing technical reasoning, evidence gathering, corrective actions, and verification.
+### [Documentation](Documentation/)
 
-### [SOP and Process Design](sop-process-design/)
+SOPs, work instructions, in-service training materials, checklists, and forms designed to help people perform work consistently.
 
-Standard operating procedures, work instructions, checklists, process maps, and workflow-improvement samples.
+### [Quality Systems](Quality-Systems/)
 
-### [Trackers and Dashboards](trackers-and-dashboards/)
+Audit templates, CAPA examples, quality-improvement tools, and compliance-support documentation.
 
-Operational trackers, quality dashboards, reporting tools, and data-supported process-improvement examples.
+### [Process Improvement](Process-Improvement/)
 
-### [Assets](assets/)
+Before-and-after redesigns, workflow maps, and visual documentation that clarify or improve how work gets done.
 
-Sanitized images and supporting materials used throughout the portfolio.
+### [Technical Writing](Technical-Writing/)
 
-## Published Work
+Equipment guides, troubleshooting guides, user documentation, and quick-reference sheets.
 
-### Total Chlorine In-Service and Acknowledgement Form
+### [Automation](Automation/)
 
-**Problem:** Time-sensitive operational readings were being completed late or without complete supporting documentation.
+Python tools, practical AI workflows, OpenSCAD projects, and reusable automation templates.
 
-**Solution:** Designed a standardized in-service document that communicates the timing expectation, explains exception-documentation requirements, and captures evidence of staff education.
+### [Portfolio Projects](Portfolio-Projects/)
 
-**Skills demonstrated:**
+Cross-functional projects combining multiple capabilities such as documentation, technical analysis, quality, data, and automation.
 
-- Technical writing
-- Compliance communication
-- Training-document development
-- Quality assurance support
-- Information architecture
-- Microsoft Word document design
-- Operational standardization
+## Standard Project Format
 
-### Machine Temperature-Failure Case Study
+Every published project follows the same structure:
 
-A de-identified technical troubleshooting case study documenting a persistent equipment temperature problem, diagnostic observations, component-level investigation, corrective actions, and verification attempts.
+1. **Problem** — What issue or need existed?
+2. **Goal** — What outcome was the work intended to produce?
+3. **My Role** — What did I personally analyze, design, or create?
+4. **Tools Used** — What software, systems, or methods supported the work?
+5. **Design Decisions** — Why was the solution organized this way?
+6. **Final Deliverable** — What was produced?
+7. **Lessons Learned** — What did the project reveal?
+8. **Transferable Skills** — What capabilities apply to future roles or clients?
 
 ## Repository Structure
 
 ```text
 technical-operations-portfolio/
 ├── README.md
-├── compliance-training/
-│   └── total-chlorine-inservice/
-├── troubleshooting-case-studies/
-│   └── machine-7367-temperature-failure/
-├── sop-process-design/
-├── trackers-and-dashboards/
-└── assets/
-    └── images/
+├── Documentation/
+│   ├── SOPs/
+│   ├── Work Instructions/
+│   ├── In-Service Training/
+│   ├── Checklists/
+│   └── Forms/
+├── Quality-Systems/
+│   ├── Audit Templates/
+│   ├── CAPA Examples/
+│   ├── Quality Improvement/
+│   └── Compliance/
+├── Process-Improvement/
+│   ├── Before-After/
+│   ├── Workflow Maps/
+│   └── Visual Documentation/
+├── Technical-Writing/
+│   ├── Equipment Guides/
+│   ├── Troubleshooting Guides/
+│   ├── User Documentation/
+│   └── Quick Reference Sheets/
+├── Automation/
+│   ├── Python/
+│   ├── AI/
+│   ├── OpenSCAD/
+│   └── Templates/
+└── Portfolio-Projects/
 ```
 
 ## Privacy and Confidentiality
 
-All public examples are sanitized before publication. Employer branding, facility identifiers, machine serial numbers, employee or patient information, proprietary service instructions, and confidential operational details are excluded.
+Every public example is sanitized before publication. Employer branding, facility identifiers, employee or patient information, sensitive equipment identifiers, proprietary service instructions, and confidential operational details are excluded.
 
 ## Professional Focus
 
 Biomedical equipment technology · technical operations · process improvement · quality systems · documentation · training · healthcare IT · AI-assisted operations
-
-## Contact
-
-Email: mo.thetech45@gmail.com
